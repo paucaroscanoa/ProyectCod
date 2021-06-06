@@ -19,7 +19,7 @@ body {
   .main .main__circle {
     background-color: #ac1b5a;
     color: white;
-    box-shadow: 0px 0px 20px #bbb;
+    box-shadow: 0px 0px 25px #bbb;
   }
   .main .main__form button {
     background-color: #ac1b5a;
